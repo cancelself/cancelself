@@ -2,6 +2,8 @@
 
 += nothing to add. -= nothing to delete. := nothing is complete.
 
+current: https://mindshow.com
+
 <!--
 **cancelself/cancelself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
