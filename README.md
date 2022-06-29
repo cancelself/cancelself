@@ -1,6 +1,8 @@
 # :u7121: cancelself
 
-+= nothing to add. -= nothing to delete. := nothing is complete.
++= nothing to add. 
+-= nothing to delete. 
+:= nothing is complete.
 
 <!--
 **cancelself/cancelself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
