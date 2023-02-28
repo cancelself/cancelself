@@ -3,7 +3,9 @@
 += nothing to add. 
 -= nothing to delete. 
 := nothing is complete.
-
+```
+echo "$(whoami) $(pwd) $(date -u '+%Y-%m-%d %H:%M:%SZ')"
+```
 <!--
 **cancelself/cancelself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
