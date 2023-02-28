@@ -7,5 +7,5 @@
 echo "$(whoami) $(pwd) $(date -u '+%Y-%m-%d %H:%M:%SZ')"
 ```
 <!--
-does a dog have buddha nature? :u7121:
+does a doug have buddha nature? :u7121:
 -->
