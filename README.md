@@ -1,12 +1,8 @@
 # :u7121: cancelself
 
-```
-+= nothing to add. -= nothing to delete. := nothing is complete.
-```
 <!--
 does a doug have buddha nature? :u7121:
 -->
-# Alexander meets Buddha
 
 Alexander the Great once came across some Indian sages in a meadow who were discussing philosophy. 
 
