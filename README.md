@@ -1,9 +1,7 @@
 # :u7121: cancelself
-
 <!--
 does a doug have buddha nature? :u7121:
 -->
-
 Alexander the Great once came across some Indian sages in a meadow who were discussing philosophy. 
 
 When these sages saw Alexander and his army, their only reaction was to stamp their feet loudly on the ground. 
