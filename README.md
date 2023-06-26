@@ -11,6 +11,6 @@ When asked what they meant by this odd behavior, they replied:
 > “King Alexander, everyone can possess only so much of the earth’s surface as this we are standing on. You are human like the rest of us, except you are always busy and up to no good, travelling so many miles from your home, a nuisance to yourself and to others. Ah well! You will soon be dead, and then you will own just as much of this earth as needed to bury you.”
 
 
-+= nothing to add, 
+**+= nothing to add, 
 -= nothing to delete,
-:= nothing is complete.
+:= nothing is complete.**
