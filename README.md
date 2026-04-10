@@ -1,6 +1,6 @@
 # :u7121: cancelself
  
-Alexander the Great once came across some Indian sages in a meadow who were discussing philosophy. 
+Alexander the Great once came across some Indian sages in a field who were discussing philosophy. 
 
 When these sages saw Alexander and his army, their only reaction was to stamp their feet loudly on the ground. 
 
